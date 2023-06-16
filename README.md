@@ -4,8 +4,11 @@ Slackflow was used as well and some questions for understanding went to chatcpt
 Instructor Michael fixed some of my code on the second assignment
 Had much help from my tutor sessions to make my output look as the key, as well as some coding issues i could just not figure out no matter what sources
   I was using.
-Worked with my instructor who too could not figure out how to make the descending graph match the index of numbers.  We did a work around in order to get it to work.  i left a lot of The following code is just a couple of options we tried:  I removed it from the notebook, but wanted you to see.  
-I am looking for feed back specifically on how the decsending bar plot were to be coded to make the bar match the index please
+Worked with my instructor who too could not figure out how to make the descending graph match the index of numbers.  We did a work around in order to get it to work. Using a 'kind' which my tutor told me about.
+I copied a lot of the following code of options we tried:  I removed it from the notebook, but wanted you to see.  
+I am looking for feed back specifically on how the decsending bar plot were to be coded to make the bar match the index please, or was the 'kind' commend the answer?
+
+Line 22, the last bar plot show in the key again in asending order, however it was not asked for, so I did not code as such.
 
 
 # Identify the coldest and hottest months in Curiosity's location
